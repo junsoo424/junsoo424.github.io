@@ -17,8 +17,8 @@ Prior to join KAIST AI, I completed my undergraduate program in Mathematical Sci
 - Optimization
 
 ### Education
-- Master's student in AI, KAIST, 2022~present
-- B.S. in Mathematical Science and Electrical Engineering, KAIST, 2018~2022
+- Master's student in AI, KAIST, 2022-present
+- B.S. in Mathematical Science and Electrical Engineering, KAIST, 2018-2022
 
 ### Contacts
 - jsmathholic at kaist dot ac dot kr
