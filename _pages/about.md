@@ -23,6 +23,16 @@ Prior to join KAIST AI, I completed my undergraduate program in Mathematical Sci
 ### Contacts
 - jsmathholic at kaist dot ac dot kr
 
+---
+permalink: /
+title: "About"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## News
 
 **[02/2022]** Finally, I got my bachelor's degree and I will start the master's course at KAIST AI.
