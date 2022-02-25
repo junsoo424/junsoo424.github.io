@@ -9,3 +9,6 @@ redirect_from:
 ---
 
 Hello, my name is Junsoo. I am a master's student in the Optimization & Machine Learning(OptiML) Laboratory at [Kim Jaechul Graduate School of at Korea Advanced Institute of Science and Technology(KAIST AI)](https://gsai.kaist.ac.kr)
+
+## Contacts
+- jsmathholic at kaist.ac.kr
