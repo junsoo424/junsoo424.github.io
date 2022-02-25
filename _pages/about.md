@@ -25,4 +25,4 @@ Prior to join KAIST AI, I completed my undergraduate program in Mathematical Sci
 
 ## News
 
-[02/2022] I got my bachelor's degree and I will start the master's course at KAIST AI.
+[02/2022] Finally, I got my bachelor's degree and I will start the master's course at KAIST AI.
