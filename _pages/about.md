@@ -12,13 +12,17 @@ I am a master's student in the Optimization & Machine Learning(OptiML) Laborator
 
 Prior to join KAIST AI, I completed my undergraduate program in Mathematical Science and Electrical Engineering (double major) at KAIST.
 
-## Research Interests
+### Research Interests
 - Deep Learning Theory
 - Optimization
 
-## Education
+### Education
 - Master's student in AI, KAIST, 2022~present
 - B.S. in Mathematical Science and Electrical Engineering, KAIST, 2018~2022
 
-## Contacts
+### Contacts
 - jsmathholic at kaist dot ac dot kr
+
+## News
+
+[02/2022] I finished my undergraduate program
