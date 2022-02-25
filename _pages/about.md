@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in the Optimization & Machine Learning(OptiML) Laboratory at [Kim Jaechul Graduate School of at Korea Advanced Institute of Science and Technology(KAIST AI)](https://gsai.kaist.ac.kr), where I'm fortuned to be advised by [Prof. Chulhee Yun](https://chulheeyun.github.io/). 
+I am a master's student in the Optimization & Machine Learning(OptiML) Laboratory at [Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST AI)](https://gsai.kaist.ac.kr), where I'm fortuned to be advised by [Prof. Chulhee Yun](https://chulheeyun.github.io/). 
 
 Prior to join KAIST AI, I completed my undergraduate program in Mathematical Science and Electrical Engineering (double major) at KAIST.
 
