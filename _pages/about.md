@@ -10,19 +10,19 @@ redirect_from:
 
 I am a master's student in the Optimization & Machine Learning(OptiML) Laboratory at [Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST AI)](https://gsai.kaist.ac.kr), where I'm fortuned to be advised by [Prof. Chulhee Yun](https://chulheeyun.github.io/). 
 
-Prior to joining KAIST AI, I completed my undergraduate program in Mathematical Science and Electrical Engineering (double major) at KAIST.
+Prior to this, I got my bachelor's degree in Mathematical Science and Electrical Engineering (double major) at Korea Advanced Institute of Science and Technology (KAIST).
 
 ## Research Interests
 - Deep Learning Theory
 - Optimization
 
 ## Education
-- Master's student in AI, KAIST, 2022-present
-- B.S. in Mathematical Science and Electrical Engineering, KAIST, 2018-2022
+- Master's student in AI, KAIST, Mar.2022-present
+- B.S. in Mathematical Science and Electrical Engineering, KAIST, Feb.2018-Feb.2022
 
-## Contacts
+## Contact
 - jsmathholic at kaist dot ac dot kr
 
 # News
 
-**[02/2022]** Finally, I got my bachelor's degree and I will start the master's course at KAIST AI.
+**[02/2022]** Finally, I received my bachelor's degree and I will start the master's course at KAIST AI.
