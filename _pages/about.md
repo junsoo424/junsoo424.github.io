@@ -13,11 +13,11 @@ I am a master's student in the Optimization & Machine Learning(OptiML) Laborator
 Prior to this, I got my bachelor's degree in Mathematical Science and Electrical Engineering (double major) at Korea Advanced Institute of Science and Technology (KAIST).
 
 ## Research Interests
-- Theoretical understanding of deep learning
+- Theoretical aspect of machine/deep learning
 
 ## Education
 - Master's student in AI, KAIST, Mar.2022-present
-- B.S. in Mathematical Science and Electrical Engineering, KAIST, Feb.2018-Feb.2022
+- B.S. in Mathematical Science and Electrical Engineering, KAIST, Feb.2018-Feb.2022 (Cum Laude)
 
 ## Contact
 - jsmathholic at kaist dot ac dot kr
