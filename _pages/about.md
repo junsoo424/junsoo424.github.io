@@ -24,4 +24,4 @@ Prior to this, I got my bachelor's degree in Mathematical Science and Electrical
 
 # News
 
-**[02/2022]** Finally, I received my bachelor's degree and I will start the master's course at KAIST AI.
+**[02/2022]** I received my bachelor's degree and I will start the master's course at KAIST AI.
