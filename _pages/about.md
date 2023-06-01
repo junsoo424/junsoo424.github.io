@@ -20,7 +20,7 @@ Prior to this, I got my bachelor's degree in Mathematical Science and Electrical
 - B.S. in Mathematical Science and Electrical Engineering, KAIST, Feb.2018-Feb.2022 (Cum Laude)
 
 ## Contact
-- jsmathholic at kaist dot ac dot kr
+- {first name}.{last name} at kaist dot ac dot kr
 
 # News
 
