@@ -17,7 +17,7 @@ Prior to this, I got my bachelor's degree in Mathematical Science and Electrical
 
 ## Education
 - Master's student in AI, KAIST, Mar.2022-present
-- B.S. in Mathematical Science and Electrical Engineering, KAIST, Feb.2018-Feb.2022 (Cum Laude)
+- B.S. in Mathematical Science and Electrical Engineering, KAIST, Feb.2018-Feb.2022
 
 ## Contact
 - {first name}.{last name} at kaist dot ac dot kr
