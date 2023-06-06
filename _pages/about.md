@@ -24,5 +24,6 @@ Prior to this, I got my bachelor's degree in Mathematical Science and Electrical
 - {first name}.{last name} at kaist dot ac dot kr
 
 # News
+**[06/2023]** [Our paper on theoretical analysis of Mixup](https://arxiv.org/abs/2306.00267) is out! This work got accepted to ICML 2023.
 
 **[02/2022]** I received my bachelor's degree and I will start the master's course at KAIST AI.
