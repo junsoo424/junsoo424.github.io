@@ -1,6 +1,10 @@
 ---
 title: "Publications"
-permalink: /publications/
+permalink: /
 excerp: Publications
 author_profile: true
+redirect_from:
+- /publications/
+- /publications.html
+
 ---
