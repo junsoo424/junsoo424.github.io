@@ -4,4 +4,5 @@ permalink: /publications/
 excerp: Publications
 author_profile: true
 ---
-Publiasdfasdfafcat
+
+Provable Benefit of Mixup for Finding Optimal Decision Boudnaries \ Junsoo Oh, Chulhee Yun \  ICML 2023
