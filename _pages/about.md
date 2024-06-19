@@ -26,6 +26,8 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 
 # News
 
+**[06/2024]** One paper got accepted to ICML 2024 Workshop on [Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization](https://want-ai-hpc.github.io/icml2024/about/). Our paper identifies noise memorization as the primary cause of plasticity loss when warm-starting networks on stationary data and proposes Direction-Aware SHrinking (DASH), an efficient practical method aiming to mitigate plasticity loss.
+
 **[06/2024]** Our theoretical work on Cutout and CutMix got accepted to ICML 2024 Workshop on [High-dimensional Learning Dynamics 2024: The Emergence of Structure and Reasoning](https://sites.google.com/view/hidimlearning/home).
 
 **[12/2023]** I defended my Master's degree and I will start my Ph.D.
