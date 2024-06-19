@@ -25,6 +25,9 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 - {first name}.{last name} at kaist dot ac dot kr
 
 # News
+
+**[06/2024]** Our theoretical work on Cutout and CutMix got accepted to ICML 2024 Workshop on [High-dimensional Learning Dynamics 2024: The Emergence of Structure and Reasoning](https://sites.google.com/view/hidimlearning/home).
+
 **[12/2023]** I defended my Master's degree and I will start my Ph.D.
 
 **[06/2023]** [Our paper on theoretical analysis of Mixup](https://arxiv.org/abs/2306.00267) is out! I'm very happy to hear that this work got accepted to ICML 2023.
