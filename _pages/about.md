@@ -26,7 +26,7 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 
 # News
 
-**[06/2024]** One paper got accepted to ICML 2024 Workshop on [Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization](https://want-ai-hpc.github.io/icml2024/about/). Our paper proposes a theory-inspired method called *Direction-Aware SHrinking (DASH)*, which aims to mitigate plasticity loss.
+**[06/2024]** One paper got accepted to ICML 2024 Workshop on [Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization](https://want-ai-hpc.github.io/icml2024/about/). Our paper proposes a theory-inspired method called * **Direction-Aware SHrinking (DASH)** *, which aims to mitigate plasticity loss.
 
 **[06/2024]** Our theoretical work on Cutout and CutMix got accepted to ICML 2024 Workshop on [High-dimensional Learning Dynamics 2024: The Emergence of Structure and Reasoning](https://sites.google.com/view/hidimlearning/home).
 
