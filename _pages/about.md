@@ -26,12 +26,12 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 
 # News
 
-**[06/2024]** One paper got accepted to ICML 2024 Workshop on [Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization](https://want-ai-hpc.github.io/icml2024/about/). Our paper proposes a theory-inspired method called *Direction-Aware SHrinking (DASH)*, which aims to mitigate plasticity loss.
+* [06/2024] One paper got accepted to ICML 2024 Workshop on [Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization](https://want-ai-hpc.github.io/icml2024/about/). Our paper proposes a theory-inspired method called *Direction-Aware SHrinking (DASH)*, which aims to mitigate plasticity loss.
 
-**[06/2024]** Our theoretical work on Cutout and CutMix got accepted to ICML 2024 Workshop on [High-dimensional Learning Dynamics 2024: The Emergence of Structure and Reasoning](https://sites.google.com/view/hidimlearning/home).
+* [06/2024] Our theoretical work on Cutout and CutMix got accepted to ICML 2024 Workshop on [High-dimensional Learning Dynamics 2024: The Emergence of Structure and Reasoning](https://sites.google.com/view/hidimlearning/home).
 
-**[12/2023]** I defended my Master's degree and I will start my Ph.D.
+* [12/2023] I defended my Master's degree and I will start my Ph.D.
 
-**[06/2023]** [Our paper on theoretical analysis of Mixup](https://arxiv.org/abs/2306.00267) is out! I'm very happy to hear that this work got accepted to ICML 2023.
+* [06/2023] [Our paper on theoretical analysis of Mixup](https://arxiv.org/abs/2306.00267) is out! I'm very happy to hear that this work got accepted to ICML 2023.
 
-**[02/2022]** I received my bachelor's degree and will start the master's course at KAIST AI.
+* [02/2022] I received my bachelor's degree and will start the master's course at KAIST AI.
