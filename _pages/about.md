@@ -25,6 +25,7 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 - {first name}.{last name} at kaist dot ac dot kr
 
 # News
+* [08/2024] Our paper on Cutout and CutMix was selected as **KT Best Paper Award** at the 2024 <a href="http://aiassociation.kr" target="_blank">Korean AI Association</a> Conference (CKAIA 2023)!
 
 * [06/2024] One paper got accepted to ICML 2024 Workshop on [Advancing Neural Network Training (WANT): Computational Efficiency, Scalability, and Resource Optimization](https://want-ai-hpc.github.io/icml2024/about/). Our paper proposes a theory-inspired method called *Direction-Aware SHrinking (DASH)*, which aims to mitigate plasticity loss.
 
