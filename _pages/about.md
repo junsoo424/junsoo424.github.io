@@ -21,6 +21,12 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 - M.Sc. in Artificial Intelligence, KAIST, Mar.2022-Feb.2024
 - B.S. in Mathematical Science and Electrical Engineering, KAIST, Mar.2018-Feb.2022
 
+## Academic Services
+### Conference Reviewer
+- NeurIPS 2024
+- ICLR 2025
+- AISTATS 2025
+
 ## Contact
 - {first name}.{last name} at kaist dot ac dot kr
 
