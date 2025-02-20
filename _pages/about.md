@@ -14,7 +14,6 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 
 ## Research Interests
 - Deep Learning Theory
-- Optimization
 
 ## Education
 - Ph.D. student in Artificial Intelligence, KAIST, Mar.2024-Current
@@ -23,7 +22,8 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 
 ## Academic Services
 ### Conference Reviewer
-- NeurIPS 2024
+- NeurIPS 2024, 2025
+- ICML 2025
 - ICLR 2025
 - AISTATS 2025
 
