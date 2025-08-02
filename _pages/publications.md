@@ -4,7 +4,7 @@ permalink: /publications/
 excerp: Publications
 author_profile: true
 ---
-###  From Linear to Nonlinear: Provable Weak-to-Strong Generalization through Feature LEarning 
+###  [From Linear to Nonlinear: Provable Weak-to-Strong Generalization through Feature Learning](https://openreview.net/forum?id=llHl4XN0yV)
  **Junsoo Oh**, Jerry Song, Chulhee Yun <br> 
  *ICML 2025 Workshop on High-dimensional Learning Dynamics 2025* <br> __KT Best Paper Award__ at KAIA Conference 2025 (CKAIA 2025)
 ###  [Provable Benefit of Cutout and CutMix for Feature Learning](https://arxiv.org/abs/2410.23672) 
