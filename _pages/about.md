@@ -16,16 +16,16 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 - Deep Learning Theory
 
 ## Education
-- Ph.D. student in Artificial Intelligence, KAIST, Mar.2024-Current
-- M.Sc. in Artificial Intelligence, KAIST, Mar.2022-Feb.2024
-- B.S. in Mathematical Science and Electrical Engineering, KAIST, Mar.2018-Feb.2022
+- PhD student in Artificial Intelligence, KAIST, Mar.2024-Current
+- MSc in Artificial Intelligence, KAIST, Mar.2022-Feb.2024
+- BSc in Mathematical Science and Electrical Engineering, KAIST, Mar.2018-Feb.2022
 
 ## Academic Services
 ### Conference/Workshop Reviewer
 - NeurIPS 2024, 2025
 - ICML 2025
 - ICLR 2025
-- AISTATS 2025
+- AISTATS 2025, 2026
 - ICML 2025 Workshop on High-dimensional Learning Dynamics
 
 ## Contact
