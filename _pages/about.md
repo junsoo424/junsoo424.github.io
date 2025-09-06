@@ -24,7 +24,7 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 ### Conference/Workshop Reviewer
 - NeurIPS 2024, 2025
 - ICML 2025
-- ICLR 2025
+- ICLR 2025. 2026
 - AISTATS 2025, 2026
 - ICML 2025 Workshop on High-dimensional Learning Dynamics
 
