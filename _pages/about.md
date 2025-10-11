@@ -24,7 +24,7 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 ### Conference/Workshop Reviewer
 - NeurIPS 2024, 2025
 - ICML 2025
-- ICLR 2025. 2026
+- ICLR 2025, 2026
 - AISTATS 2025, 2026
 - ICML 2025 Workshop on High-dimensional Learning Dynamics
 
@@ -35,7 +35,7 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 * [09/2025] Our paper on weak-to-strong generalization got accepted to NeurIPS 2025!
 * [08/2025] Our work on weak-to-strong generalization was selected as **KT Best Paper Award**  at the 2025 <a href="http://aiassociation.kr" target="_blank">Korean AI Association</a> Conference (CKAIA 2025)!
 
-* [07/2025] I will soon start a research internship at the University of Tokyo, hosted by [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/), and stay there until September. If you are around, feel free to reach out!
+* [07/2025] I will soon start a research internship at the University of Tokyo/RIKEN AIP, hosted by [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/), and stay there until September. If you are around, feel free to reach out!
 * [06/2025] [Our work on weak-to-strong generalization](https://openreview.net/forum?id=llHl4XN0yV) got accepted to ICML 2025 Workshop on [High-dimensional Learning Dynamics 2025](https://sites.google.com/view/hidimlearning/home).
 * [09/2024] Two papers got accepted to NeurIPS 2024 and our paper on [Cutout/CutMix](https://arxiv.org/abs/2410.23672) was selected as a **spotlight presentation**! 
 * [08/2024] Our paper on Cutout and CutMix was selected as **KT Best Paper Award** at the 2024 <a href="http://aiassociation.kr" target="_blank">Korean AI Association</a> Conference (CKAIA 2024)!
