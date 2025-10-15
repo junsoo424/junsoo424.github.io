@@ -4,7 +4,7 @@ permalink: /publications/
 excerp: Publications
 author_profile: true
 ---
-### Mamba Can Learn Low-Dimensional Targets In-Context via Test-Time Feature Learning
+### [Mamba Can Learn Low-Dimensional Targets In-Context via Test-Time Feature Learning](https://arxiv.org/abs/2510.12026)
 **Junsoo Oh**, Wei Huang, Taiji Suzuki <br>
 *Preprint* <br>
 
