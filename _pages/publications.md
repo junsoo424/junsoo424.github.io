@@ -5,6 +5,8 @@ excerp: Publications
 author_profile: true
 ---
 ### Mamba Can Learn Low-Dimensional Targets In-Context via Test-Time Feature Learning
+**Junsoo Oh**, Wei Huang, Taiji Suzuki <br>
+*Preprint* <br>
 
 ###  [From Linear to Nonlinear: Provable Weak-to-Strong Generalization through Feature Learning](https://openreview.net/forum?id=llHl4XN0yV)
 **Junsoo Oh**, Jerry Song, Chulhee Yun <br> 
