@@ -32,7 +32,7 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 - {first name}.{last name} at kaist dot ac dot kr
 
 # News
-* [10/2025] [Our new preprint on Mamba's in-context learning](https://arxiv.org/abs/2510.12026) is out! This work was done during my internship at the University of Tokyo where I was fortunate to work with [Wei Huang](https://weihuang05.github.io) and [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/)!
+* [10/2025] [Our new preprint on Mamba's in-context learning](https://arxiv.org/abs/2510.12026) is out! This work was done during my visit to the University of Tokyo where I was fortunate to work with [Wei Huang](https://weihuang05.github.io) and [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/)!
 * [09/2025] Our paper on weak-to-strong generalization got accepted to NeurIPS 2025!
 * [08/2025] Our work on weak-to-strong generalization was selected as **KT Best Paper Award**  at the 2025 <a href="http://aiassociation.kr" target="_blank">Korean AI Association</a> Conference (CKAIA 2025)!
 * [07/2025] I will soon start a research internship at the University of Tokyo, hosted by [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/), and stay there until September. If you are around, feel free to reach out!
