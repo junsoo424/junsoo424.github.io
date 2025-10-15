@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I am a PhD student in the Optimization & Machine Learning(OptiML) Laboratory at [Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST AI)](https://gsai.kaist.ac.kr), where I'm fortuned to be advised by [Prof. Chulhee Yun](https://chulheeyun.github.io/). 
+I am a PhD student in the Optimization & Machine Learning(OptiML) Laboratory at [Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST AI)](https://gsai.kaist.ac.kr), where I am fortunate to be advised by [Prof. Chulhee Yun](https://chulheeyun.github.io/). 
 
 Before this, I got my master's degree in Artificial Intelligence and bachelor's degree in Mathematical Science and Electrical Engineering (double major) at Korea Advanced Institute of Science and Technology (KAIST).
 
@@ -32,10 +32,10 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 - {first name}.{last name} at kaist dot ac dot kr
 
 # News
+* [10/2025] [Our new preprint on Mamba's in-context learning](https://arxiv.org/abs/2510.12026) is out! This work was done during my internship at the University of Tokyo where I was fortunate to work with [Wei Huang](https://weihuang05.github.io) and [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/))!
 * [09/2025] Our paper on weak-to-strong generalization got accepted to NeurIPS 2025!
 * [08/2025] Our work on weak-to-strong generalization was selected as **KT Best Paper Award**  at the 2025 <a href="http://aiassociation.kr" target="_blank">Korean AI Association</a> Conference (CKAIA 2025)!
-
-* [07/2025] I will soon start a research internship at the University of Tokyo/RIKEN AIP, hosted by [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/), and stay there until September. If you are around, feel free to reach out!
+* [07/2025] I will soon start a research internship at the University of Tokyo, hosted by [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/), and stay there until September. If you are around, feel free to reach out!
 * [06/2025] [Our work on weak-to-strong generalization](https://openreview.net/forum?id=llHl4XN0yV) got accepted to ICML 2025 Workshop on [High-dimensional Learning Dynamics 2025](https://sites.google.com/view/hidimlearning/home).
 * [09/2024] Two papers got accepted to NeurIPS 2024 and our paper on [Cutout/CutMix](https://arxiv.org/abs/2410.23672) was selected as a **spotlight presentation**! 
 * [08/2024] Our paper on Cutout and CutMix was selected as **KT Best Paper Award** at the 2024 <a href="http://aiassociation.kr" target="_blank">Korean AI Association</a> Conference (CKAIA 2024)!
