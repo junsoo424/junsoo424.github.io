@@ -8,7 +8,7 @@ author_profile: true
 **Junsoo Oh**, Wei Huang, Taiji Suzuki <br>
 *Preprint* <br>
 
-###  [From Linear to Nonlinear: Provable Weak-to-Strong Generalization through Feature Learning](https://openreview.net/forum?id=llHl4XN0yV)
+###  [From Linear to Nonlinear: Provable Weak-to-Strong Generalization through Feature Learning](https://arxiv.org/abs/2510.24812)
 **Junsoo Oh**, Jerry Song, Chulhee Yun <br> 
 *NeurIPS 2025* <br>
 *ICML 2025 Workshop on High-dimensional Learning Dynamics 2025* <br>
