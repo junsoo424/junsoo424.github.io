@@ -21,12 +21,13 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 - BSc in Mathematical Science and Electrical Engineering, KAIST, Mar.2018-Feb.2022
 
 ## Academic Services
-### Conference/Workshop Reviewer
+### Reviewer
 - NeurIPS 2024, 2025
 - ICML 2025, 2026
 - ICLR 2025, 2026
 - AISTATS 2025, 2026
-- ICML 2025 Workshop on High-dimensional Learning Dynamics
+- ICML 2025, 2026 Workshop on High-dimensional Learning Dynamics
+- TMLR
 
 ## Contact
 - {first name}.{last name} at kaist dot ac dot kr
