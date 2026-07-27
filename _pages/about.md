@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I am a PhD student in the Optimization & Machine Learning(OptiML) Laboratory at [Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST AI)](https://gsai.kaist.ac.kr), where I am fortunate to be advised by [Prof. Chulhee Yun](https://chulheeyun.github.io/). 
+I am a PhD student in the Optimization & Machine Learning(OptiML) Laboratory at [Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST AI)](https://gsai.kaist.ac.kr), where I am fortunate to be advised by [Prof. Chulhee Yun](https://chulheeyun.github.io/). I am currently a Research Intern at [KRAFTON AI](https://new.krafton.ai/en/). Previously, I spent the summer of 2025 as a Research Intern at the University of Tokyo, working with [Wei Huang](https://weihuang05.github.io/) and [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/).
 
 Before this, I got my master's degree in Artificial Intelligence and bachelor's degree in Mathematical Science and Electrical Engineering (double major) at Korea Advanced Institute of Science and Technology (KAIST).
 
