@@ -33,6 +33,7 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 - {first name}.{last name} at kaist dot ac dot kr
 
 # News
+* [10/2026] One paper accepted to NeurIPS 2026. I’ll be in Sydney for the conference, and if you’re going to be there too, I’d love to catch up!
 * [05/2026] I’m excited to share that I’ve joined [KRAFTON AI](https://new.krafton.ai/en/) as a Research Intern.
 * [10/2025] [Our new preprint on Mamba's in-context learning](https://arxiv.org/abs/2510.12026) is out! This work was done during my visit to the University of Tokyo where I was fortunate to work with [Wei Huang](https://weihuang05.github.io) and [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/)!
 * [09/2025] Our paper on weak-to-strong generalization got accepted to NeurIPS 2025!
