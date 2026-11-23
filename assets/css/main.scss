@@ -12,6 +12,12 @@
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
+
+// custom: muted link color, close to body text
+$link-color                 : #2f5f7f;
+$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color-visited         : mix(#fff, $link-color, 25%);
+
 @import "mixins";
 @import "vendor/susy/susy";
 
@@ -39,3 +45,12 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* custom: no underlines on links anywhere */
+a,
+a:hover,
+a:focus,
+a:active,
+.archive__item:hover .archive__item-title {
+  text-decoration: none !important;
+}
