@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I am a PhD student at [Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST AI)](https://gsai.kaist.ac.kr), where I am fortunate to be advised by [Prof. Chulhee Yun](https://chulheeyun.github.io/). Previously, I spent six months as a Research Intern at [KRAFTON AI](https://new.krafton.ai/en/), and before that, I was a Research Intern at the University of Tokyo during the summer of 2025, working with [Wei Huang](https://weihuang05.github.io/) and [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/).
+I am a PhD student at [Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST AI)](https://gsai.kaist.ac.kr), where I am fortunate to be advised by [Prof. Chulhee Yun](https://chulheeyun.github.io/). Previously, I spent half a year as a Research Intern at [KRAFTON AI](https://new.krafton.ai/en/), and before that, I was a Research Intern at the University of Tokyo during the summer of 2025, working with [Wei Huang](https://weihuang05.github.io/) and [Prof. Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/).
 
 Before this, I got my master's degree in Artificial Intelligence and bachelor's degree in Mathematical Science and Electrical Engineering (double major) at Korea Advanced Institute of Science and Technology (KAIST).
 
