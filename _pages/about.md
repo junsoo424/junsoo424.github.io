@@ -34,7 +34,7 @@ Before this, I got my master's degree in Artificial Intelligence and bachelor's 
 - {first name}.{last name} at kaist dot ac dot kr
 
 # News
-* [11/2026] [Our new preprint on linear attention](https://arxiv.org/abs/2611.32063) is out! We propose Integral DeltaNet, which pairs a fast delta state with a slow integral state to reduce memory collisions without discarding past information. This work was done during my internship at [KRAFTON AI](https://new.krafton.ai/en/) with [Jihun Yun](https://abcdxyzpqrst.github.io/), [Junhyuck Kim](https://jhyuckkim.github.io/), and [Hanbaek Lyu](https://hanbaeklyu.com/)!
+* [11/2026] [Our new preprint on linear attention](https://arxiv.org/abs/2611.32063) is out! We propose *Integral DeltaNet*, which pairs a fast delta state with a slow integral state to reduce memory collisions without discarding past information. This work was done during my internship at [KRAFTON AI](https://new.krafton.ai/en/) with [Jihun Yun](https://abcdxyzpqrst.github.io/), [Junhyuck Kim](https://jhyuckkim.github.io/), and [Hanbaek Lyu](https://hanbaeklyu.com/)!
 * [10/2026] One paper accepted to NeurIPS 2026. I’ll be in Sydney for the conference, and if you’re going to be there too, I’d love to catch up!
 * [05/2026] I’m excited to share that I’ve joined [KRAFTON AI](https://new.krafton.ai/en/) as a Research Intern.
 * [10/2025] [Our new preprint on Mamba's in-context learning](https://arxiv.org/abs/2510.12026) is out! This work was done during my visit to the University of Tokyo where I was fortunate to work with [Wei Huang](https://weihuang05.github.io) and [Taiji Suzuki](https://ibis.t.u-tokyo.ac.jp/suzuki/)!
