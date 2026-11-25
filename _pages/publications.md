@@ -4,6 +4,10 @@ permalink: /publications/
 excerp: Publications
 author_profile: true
 ---
+### [Integral DeltaNet: Improved Linear Attention with Adaptive Memory Integration](https://arxiv.org/abs/2611.32063)
+**Junsoo Oh**, Jihun Yun, Junhyuck Kim, Hanbaek Lyu <br>
+*Preprint* <br>
+
 ### [Mamba Can Learn Low-Dimensional Targets In-Context via Test-Time Feature Learning](https://arxiv.org/abs/2510.12026)
 **Junsoo Oh**, Wei Huang, Taiji Suzuki <br>
 *NeurIPS 2026* <br>
